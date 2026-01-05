@@ -1,0 +1,623 @@
+{
+  "invoice_id": "INV-90894",
+  "file_path": "data\\Level2_Invoice_InvoiceHomeStyle_1_diverse.pdf",
+  "file_name": "Level2_Invoice_InvoiceHomeStyle_1_diverse.pdf",
+  "total_pages": 4,
+  "line_items": [
+    {
+      "item_code": "FS-1000",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-06-03",
+      "quantity": 13.0,
+      "unit_price": 161.2,
+      "total_amount": 2095.6,
+      "page_number": 2,
+      "line_number": 2
+    },
+    {
+      "item_code": "FS-1001",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-02-25",
+      "quantity": 16.0,
+      "unit_price": 31.08,
+      "total_amount": 497.28,
+      "page_number": 2,
+      "line_number": 3
+    },
+    {
+      "item_code": "FS-1002",
+      "description": "Whole Wheat Bread – Bakery Pack",
+      "delivery_date": "2025-05-15",
+      "quantity": 30.0,
+      "unit_price": 76.09,
+      "total_amount": 2282.7,
+      "page_number": 2,
+      "line_number": 4
+    },
+    {
+      "item_code": "FS-1003",
+      "description": "Ground Coffee Beans – Dark Roast",
+      "delivery_date": "2025-02-17",
+      "quantity": 8.0,
+      "unit_price": 169.63,
+      "total_amount": 1357.04,
+      "page_number": 2,
+      "line_number": 5
+    },
+    {
+      "item_code": "FS-1004",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-09-17",
+      "quantity": 26.0,
+      "unit_price": 170.72,
+      "total_amount": 4438.72,
+      "page_number": 2,
+      "line_number": 6
+    },
+    {
+      "item_code": "FS-1005",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-07-10",
+      "quantity": 12.0,
+      "unit_price": 116.35,
+      "total_amount": 1396.2,
+      "page_number": 2,
+      "line_number": 7
+    },
+    {
+      "item_code": "FS-1006",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-06-21",
+      "quantity": 6.0,
+      "unit_price": 63.21,
+      "total_amount": 379.26,
+      "page_number": 2,
+      "line_number": 8
+    },
+    {
+      "item_code": "FS-1007",
+      "description": "Brown Rice – 5kg Sack",
+      "delivery_date": "2025-02-17",
+      "quantity": 25.0,
+      "unit_price": 178.68,
+      "total_amount": 4467.0,
+      "page_number": 2,
+      "line_number": 9
+    },
+    {
+      "item_code": "FS-1008",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-10-25",
+      "quantity": 28.0,
+      "unit_price": 88.02,
+      "total_amount": 2464.56,
+      "page_number": 2,
+      "line_number": 10
+    },
+    {
+      "item_code": "FS-1009",
+      "description": "Brown Rice – 5kg Sack",
+      "delivery_date": "2025-06-28",
+      "quantity": 29.0,
+      "unit_price": 57.18,
+      "total_amount": 1658.22,
+      "page_number": 2,
+      "line_number": 11
+    },
+    {
+      "item_code": "FS-1010",
+      "description": "Coconut Water – Pack of 6",
+      "delivery_date": "2025-01-31",
+      "quantity": 11.0,
+      "unit_price": 180.36,
+      "total_amount": 1983.96,
+      "page_number": 2,
+      "line_number": 12
+    },
+    {
+      "item_code": "FS-1011",
+      "description": "Organic Apples – Fuji Grade A",
+      "delivery_date": "2025-06-14",
+      "quantity": 5.0,
+      "unit_price": 112.72,
+      "total_amount": 563.6,
+      "page_number": 2,
+      "line_number": 13
+    },
+    {
+      "item_code": "FS-1012",
+      "description": "Whole Wheat Bread – Bakery Pack",
+      "delivery_date": "2025-07-03",
+      "quantity": 30.0,
+      "unit_price": 9.54,
+      "total_amount": 286.2,
+      "page_number": 2,
+      "line_number": 14
+    },
+    {
+      "item_code": "FS-1013",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-09-25",
+      "quantity": 30.0,
+      "unit_price": 134.62,
+      "total_amount": 4038.6,
+      "page_number": 2,
+      "line_number": 15
+    },
+    {
+      "item_code": "FS-1014",
+      "description": "Gluten-Free Pasta – Penne",
+      "delivery_date": "2025-06-05",
+      "quantity": 16.0,
+      "unit_price": 40.71,
+      "total_amount": 651.36,
+      "page_number": 2,
+      "line_number": 16
+    },
+    {
+      "item_code": "FS-1015",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-07-22",
+      "quantity": 5.0,
+      "unit_price": 122.35,
+      "total_amount": 611.75,
+      "page_number": 2,
+      "line_number": 17
+    },
+    {
+      "item_code": "FS-1016",
+      "description": "Tomato Sauce – Mild Recipe",
+      "delivery_date": "2025-04-15",
+      "quantity": 23.0,
+      "unit_price": 32.59,
+      "total_amount": 749.57,
+      "page_number": 2,
+      "line_number": 18
+    },
+    {
+      "item_code": "FS-1017",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-01-18",
+      "quantity": 28.0,
+      "unit_price": 110.63,
+      "total_amount": 3097.64,
+      "page_number": 2,
+      "line_number": 19
+    },
+    {
+      "item_code": "FS-1018",
+      "description": "Gluten-Free Pasta – Penne",
+      "delivery_date": "2025-08-18",
+      "quantity": 11.0,
+      "unit_price": 82.17,
+      "total_amount": 903.87,
+      "page_number": 2,
+      "line_number": 20
+    },
+    {
+      "item_code": "FS-1019",
+      "description": "Fresh Bananas – Ecuador Origin",
+      "delivery_date": "2025-05-07",
+      "quantity": 10.0,
+      "unit_price": 79.89,
+      "total_amount": 798.9,
+      "page_number": 2,
+      "line_number": 21
+    },
+    {
+      "item_code": "FS-1020",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-10-14",
+      "quantity": 15.0,
+      "unit_price": 123.79,
+      "total_amount": 1856.85,
+      "page_number": 2,
+      "line_number": 22
+    },
+    {
+      "item_code": "FS-1021",
+      "description": "Fresh Bananas – Ecuador Origin",
+      "delivery_date": "2025-03-06",
+      "quantity": 12.0,
+      "unit_price": 109.57,
+      "total_amount": 1314.84,
+      "page_number": 2,
+      "line_number": 23
+    },
+    {
+      "item_code": "FS-1022",
+      "description": "Coconut Water – Pack of 6",
+      "delivery_date": "2025-01-22",
+      "quantity": 16.0,
+      "unit_price": 97.06,
+      "total_amount": 1552.96,
+      "page_number": 2,
+      "line_number": 24
+    },
+    {
+      "item_code": "FS-1023",
+      "description": "Tomato Sauce – Mild Recipe",
+      "delivery_date": "2025-03-10",
+      "quantity": 20.0,
+      "unit_price": 167.9,
+      "total_amount": 3358.0,
+      "page_number": 2,
+      "line_number": 25
+    },
+    {
+      "item_code": "FS-1024",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-02-18",
+      "quantity": 23.0,
+      "unit_price": 154.48,
+      "total_amount": 3553.04,
+      "page_number": 2,
+      "line_number": 26
+    },
+    {
+      "item_code": "FS-1025",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-07-03",
+      "quantity": 27.0,
+      "unit_price": 190.6,
+      "total_amount": 5146.2,
+      "page_number": 2,
+      "line_number": 27
+    },
+    {
+      "item_code": "FS-1026",
+      "description": "Organic Apples – Fuji Grade A",
+      "delivery_date": "2025-07-18",
+      "quantity": 23.0,
+      "unit_price": 151.58,
+      "total_amount": 3486.34,
+      "page_number": 2,
+      "line_number": 28
+    },
+    {
+      "item_code": "FS-1027",
+      "description": "Tomato Sauce – Mild Recipe",
+      "delivery_date": "2025-09-18",
+      "quantity": 17.0,
+      "unit_price": 48.08,
+      "total_amount": 817.36,
+      "page_number": 2,
+      "line_number": 29
+    },
+    {
+      "item_code": "FS-1028",
+      "description": "Coconut Water – Pack of 6",
+      "delivery_date": "2025-05-11",
+      "quantity": 25.0,
+      "unit_price": 195.32,
+      "total_amount": 4883.0,
+      "page_number": 2,
+      "line_number": 30
+    },
+    {
+      "item_code": "FS-1029",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-01-04",
+      "quantity": 16.0,
+      "unit_price": 65.66,
+      "total_amount": 1050.56,
+      "page_number": 2,
+      "line_number": 31
+    },
+    {
+      "item_code": "FS-1030",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-04-13",
+      "quantity": 25.0,
+      "unit_price": 183.65,
+      "total_amount": 4591.25,
+      "page_number": 2,
+      "line_number": 32
+    },
+    {
+      "item_code": "FS-1031",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-09-10",
+      "quantity": 19.0,
+      "unit_price": 102.3,
+      "total_amount": 1943.7,
+      "page_number": 2,
+      "line_number": 33
+    },
+    {
+      "item_code": "FS-1032",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-06-18",
+      "quantity": 19.0,
+      "unit_price": 192.19,
+      "total_amount": 3651.61,
+      "page_number": 2,
+      "line_number": 34
+    },
+    {
+      "item_code": "FS-1033",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-03-05",
+      "quantity": 3.0,
+      "unit_price": 181.52,
+      "total_amount": 544.56,
+      "page_number": 2,
+      "line_number": 35
+    },
+    {
+      "item_code": "FS-1034",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-01-22",
+      "quantity": 8.0,
+      "unit_price": 121.28,
+      "total_amount": 970.24,
+      "page_number": 2,
+      "line_number": 36
+    },
+    {
+      "item_code": "FS-1035",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-05-02",
+      "quantity": 20.0,
+      "unit_price": 106.43,
+      "total_amount": 2128.6,
+      "page_number": 3,
+      "line_number": 2
+    },
+    {
+      "item_code": "FS-1036",
+      "description": "Fresh Bananas – Ecuador Origin",
+      "delivery_date": "2025-05-16",
+      "quantity": 4.0,
+      "unit_price": 76.52,
+      "total_amount": 306.08,
+      "page_number": 3,
+      "line_number": 3
+    },
+    {
+      "item_code": "FS-1037",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-03-26",
+      "quantity": 10.0,
+      "unit_price": 125.2,
+      "total_amount": 1252.0,
+      "page_number": 3,
+      "line_number": 4
+    },
+    {
+      "item_code": "FS-1038",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-06-30",
+      "quantity": 6.0,
+      "unit_price": 105.59,
+      "total_amount": 633.54,
+      "page_number": 3,
+      "line_number": 5
+    },
+    {
+      "item_code": "FS-1039",
+      "description": "Whole Wheat Bread – Bakery Pack",
+      "delivery_date": "2025-01-21",
+      "quantity": 29.0,
+      "unit_price": 29.96,
+      "total_amount": 868.84,
+      "page_number": 3,
+      "line_number": 6
+    },
+    {
+      "item_code": "FS-1040",
+      "description": "Gluten-Free Pasta – Penne",
+      "delivery_date": "2025-09-01",
+      "quantity": 3.0,
+      "unit_price": 164.25,
+      "total_amount": 492.75,
+      "page_number": 3,
+      "line_number": 7
+    },
+    {
+      "item_code": "FS-1041",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-01-21",
+      "quantity": 19.0,
+      "unit_price": 58.56,
+      "total_amount": 1112.64,
+      "page_number": 3,
+      "line_number": 8
+    },
+    {
+      "item_code": "FS-1042",
+      "description": "Ground Coffee Beans – Dark Roast",
+      "delivery_date": "2025-04-22",
+      "quantity": 30.0,
+      "unit_price": 63.41,
+      "total_amount": 1902.3,
+      "page_number": 3,
+      "line_number": 9
+    },
+    {
+      "item_code": "FS-1043",
+      "description": "Natural Yogurt – 500g Cup",
+      "delivery_date": "2025-04-02",
+      "quantity": 21.0,
+      "unit_price": 45.77,
+      "total_amount": 961.17,
+      "page_number": 3,
+      "line_number": 10
+    },
+    {
+      "item_code": "FS-1044",
+      "description": "Ground Coffee Beans – Dark Roast",
+      "delivery_date": "2025-02-25",
+      "quantity": 4.0,
+      "unit_price": 10.77,
+      "total_amount": 43.08,
+      "page_number": 3,
+      "line_number": 11
+    },
+    {
+      "item_code": "FS-1045",
+      "description": "Brown Rice – 5kg Sack",
+      "delivery_date": "2025-08-16",
+      "quantity": 7.0,
+      "unit_price": 53.96,
+      "total_amount": 377.72,
+      "page_number": 3,
+      "line_number": 12
+    },
+    {
+      "item_code": "FS-1046",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-09-23",
+      "quantity": 12.0,
+      "unit_price": 151.44,
+      "total_amount": 1817.28,
+      "page_number": 3,
+      "line_number": 13
+    },
+    {
+      "item_code": "FS-1047",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-07-28",
+      "quantity": 20.0,
+      "unit_price": 195.75,
+      "total_amount": 3915.0,
+      "page_number": 3,
+      "line_number": 14
+    },
+    {
+      "item_code": "FS-1048",
+      "description": "Natural Yogurt – 500g Cup",
+      "delivery_date": "2025-07-02",
+      "quantity": 24.0,
+      "unit_price": 47.68,
+      "total_amount": 1144.32,
+      "page_number": 3,
+      "line_number": 15
+    },
+    {
+      "item_code": "FS-1049",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-03-25",
+      "quantity": 29.0,
+      "unit_price": 158.63,
+      "total_amount": 4600.27,
+      "page_number": 3,
+      "line_number": 16
+    },
+    {
+      "item_code": "FS-1050",
+      "description": "Natural Yogurt – 500g Cup",
+      "delivery_date": "2025-02-24",
+      "quantity": 30.0,
+      "unit_price": 193.46,
+      "total_amount": 5803.8,
+      "page_number": 3,
+      "line_number": 17
+    },
+    {
+      "item_code": "FS-1051",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-05-31",
+      "quantity": 9.0,
+      "unit_price": 61.97,
+      "total_amount": 557.73,
+      "page_number": 3,
+      "line_number": 18
+    },
+    {
+      "item_code": "FS-1052",
+      "description": "Extra Virgin Olive Oil – 1L",
+      "delivery_date": "2025-02-11",
+      "quantity": 27.0,
+      "unit_price": 99.51,
+      "total_amount": 2686.77,
+      "page_number": 3,
+      "line_number": 19
+    },
+    {
+      "item_code": "FS-1053",
+      "description": "Fresh Salmon Fillet – Chilled",
+      "delivery_date": "2025-07-01",
+      "quantity": 30.0,
+      "unit_price": 142.53,
+      "total_amount": 4275.9,
+      "page_number": 3,
+      "line_number": 20
+    },
+    {
+      "item_code": "FS-1054",
+      "description": "Brown Rice – 5kg Sack",
+      "delivery_date": "2025-08-17",
+      "quantity": 16.0,
+      "unit_price": 62.86,
+      "total_amount": 1005.76,
+      "page_number": 3,
+      "line_number": 21
+    },
+    {
+      "item_code": "FS-1055",
+      "description": "Assorted Cheese Selection",
+      "delivery_date": "2025-10-16",
+      "quantity": 12.0,
+      "unit_price": 113.86,
+      "total_amount": 1366.32,
+      "page_number": 3,
+      "line_number": 22
+    },
+    {
+      "item_code": "FS-1056",
+      "description": "Brown Rice – 5kg Sack",
+      "delivery_date": "2025-09-29",
+      "quantity": 24.0,
+      "unit_price": 174.59,
+      "total_amount": 4190.16,
+      "page_number": 3,
+      "line_number": 23
+    },
+    {
+      "item_code": "FS-1057",
+      "description": "Fresh Bananas – Ecuador Origin",
+      "delivery_date": "2025-01-11",
+      "quantity": 8.0,
+      "unit_price": 159.71,
+      "total_amount": 1277.68,
+      "page_number": 3,
+      "line_number": 24
+    },
+    {
+      "item_code": "FS-1058",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-09-19",
+      "quantity": 21.0,
+      "unit_price": 122.64,
+      "total_amount": 2575.44,
+      "page_number": 3,
+      "line_number": 25
+    },
+    {
+      "item_code": "FS-1059",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-07-29",
+      "quantity": 25.0,
+      "unit_price": 151.62,
+      "total_amount": 3790.5,
+      "page_number": 3,
+      "line_number": 26
+    }
+  ],
+  "metadata": {
+    "invoice_id": "INV-90894",
+    "invoice_date": "2026-01-03",
+    "due_date": null,
+    "company_name": null,
+    "company_address": null,
+    "company_email": null,
+    "customer_name": null,
+    "customer_address": null,
+    "subtotal": null,
+    "tax": null,
+    "total": null,
+    "currency": "USD"
+  },
+  "extraction_timestamp": "2026-01-05T07:55:39.575424"
+}

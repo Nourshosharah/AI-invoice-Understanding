@@ -1,0 +1,73 @@
+{
+  "invoice_id": "INV-20911",
+  "file_path": "data\\Level1_Invoice_InvoiceHomeStyle_2_diverse.pdf",
+  "file_name": "Level1_Invoice_InvoiceHomeStyle_2_diverse.pdf",
+  "total_pages": 1,
+  "line_items": [
+    {
+      "item_code": "FS-1000",
+      "description": "Extra Virgin Olive Oil – 1L",
+      "delivery_date": "2025-02-13",
+      "quantity": 12.0,
+      "unit_price": 164.5,
+      "total_amount": 1974.0,
+      "page_number": 1,
+      "line_number": 2
+    },
+    {
+      "item_code": "FS-1001",
+      "description": "Mixed Vegetables – Frozen Pack",
+      "delivery_date": "2025-04-12",
+      "quantity": 23.0,
+      "unit_price": 82.2,
+      "total_amount": 1890.6,
+      "page_number": 1,
+      "line_number": 3
+    },
+    {
+      "item_code": "FS-1002",
+      "description": "Natural Yogurt – 500g Cup",
+      "delivery_date": "2025-06-30",
+      "quantity": 19.0,
+      "unit_price": 131.92,
+      "total_amount": 2506.48,
+      "page_number": 1,
+      "line_number": 4
+    },
+    {
+      "item_code": "FS-1003",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-04-08",
+      "quantity": 18.0,
+      "unit_price": 139.75,
+      "total_amount": 2515.5,
+      "page_number": 1,
+      "line_number": 5
+    },
+    {
+      "item_code": "FS-1004",
+      "description": "Gluten-Free Pasta – Penne",
+      "delivery_date": "2025-07-10",
+      "quantity": 5.0,
+      "unit_price": 198.49,
+      "total_amount": 992.45,
+      "page_number": 1,
+      "line_number": 6
+    }
+  ],
+  "metadata": {
+    "invoice_id": "INV-20911",
+    "invoice_date": "2026-01-03",
+    "due_date": null,
+    "company_name": null,
+    "company_address": null,
+    "company_email": null,
+    "customer_name": null,
+    "customer_address": null,
+    "subtotal": 3764.82,
+    "tax": 188.24,
+    "total": 3953.06,
+    "currency": "USD"
+  },
+  "extraction_timestamp": "2026-01-05T07:55:33.068964"
+}

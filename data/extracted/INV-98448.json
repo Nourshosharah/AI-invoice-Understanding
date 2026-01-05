@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-98448",
+  "file_path": "data\\Level1_Invoice_InvoiceHomeStyle_1_diverse.pdf",
+  "file_name": "Level1_Invoice_InvoiceHomeStyle_1_diverse.pdf",
+  "total_pages": 1,
+  "line_items": [
+    {
+      "item_code": "FS-1000",
+      "description": "Frozen Chicken Breast – 2kg",
+      "delivery_date": "2025-08-21",
+      "quantity": 15.0,
+      "unit_price": 145.29,
+      "total_amount": 2179.35,
+      "page_number": 1,
+      "line_number": 2
+    },
+    {
+      "item_code": "FS-1001",
+      "description": "Whole Wheat Bread – Bakery Pack",
+      "delivery_date": "2025-04-10",
+      "quantity": 5.0,
+      "unit_price": 91.46,
+      "total_amount": 457.3,
+      "page_number": 1,
+      "line_number": 3
+    },
+    {
+      "item_code": "FS-1002",
+      "description": "Canned Tuna in Sunflower Oil",
+      "delivery_date": "2025-01-20",
+      "quantity": 19.0,
+      "unit_price": 101.8,
+      "total_amount": 1934.2,
+      "page_number": 1,
+      "line_number": 4
+    }
+  ],
+  "metadata": {
+    "invoice_id": "INV-98448",
+    "invoice_date": "2026-01-03",
+    "due_date": null,
+    "company_name": null,
+    "company_address": null,
+    "company_email": null,
+    "customer_name": null,
+    "customer_address": null,
+    "subtotal": 1598.22,
+    "tax": 79.91,
+    "total": 1678.13,
+    "currency": "USD"
+  },
+  "extraction_timestamp": "2026-01-05T07:55:27.404721"
+}
